@@ -1,6 +1,6 @@
 {
-    "name": "News Web App",
-    "short_name": "News Web App",
+    "name": "Dailynovus",
+    "short_name": "Dailynovus",
     "theme_color": "#c62828",
     "background_color": "#010204",
     "display": "standalone",
